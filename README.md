@@ -1,14 +1,5 @@
 # 🇲🇾 Forecasting Malaysia's Banknotes in Circulation Using Econometric and Machine Learning Models
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-FF4B4B?logo=streamlit)
-![SARIMAX](https://img.shields.io/badge/Model-SARIMAX-success)
-![LSTM](https://img.shields.io/badge/Deep%20Learning-LSTM-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-</p>
-
 ---
 
 ## 📖 Overview
@@ -183,56 +174,7 @@ The study demonstrates several important findings.
 
 ---
 
-# 📂 Repository Structure
-
-```text
-malaysia-banknotes-forecasting
-│
-├── notebook/
-│   └── Forecasting_Malaysia_Banknotes.ipynb
-│
-├── report/
-│   └── FYP_Report.pdf
-│
-├── powerbi/
-│   └── Banknotes_Forecasting_Dashboard.pbix
-│
-├── streamlit_app/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── df_banknotes_all_streamlit.csv
-│   └── saved_models/
-│
-├── data/
-│
-├── images/
-│
-└── README.md
-```
-
----
-
-# 🚀 Running the Streamlit Application
-
-Clone this repository.
-
-```bash
-git clone https://github.com/aidilluqman039/malaysia-banknotes-forecasting.git
-```
-
-Navigate to the Streamlit folder.
-
-```bash
-cd streamlit_app
-```
-
-Install the required packages.
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application.
+Run the Streamlit.
 
 ```bash
 streamlit run app.py
@@ -253,22 +195,6 @@ streamlit run app.py
 * Power BI
 * Streamlit
 * Plotly
-
----
-
-# 📄 Project Report
-
-The complete Final Year Project report is available in the **report** folder.
-
-The report includes:
-
-* Literature Review
-* Research Methodology
-* Feature Engineering
-* Forecasting Models
-* Experimental Results
-* Discussion
-* Conclusion
 
 ---
 
