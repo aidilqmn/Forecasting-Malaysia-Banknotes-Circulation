@@ -1,4 +1,4 @@
-# 🇲🇾 Forecasting Malaysia's Banknotes in Circulation Using Econometric and Machine Learning Models
+# Forecasting Malaysia's Banknotes in Circulation Using Econometric and Machine Learning Models
 
 ---
 
@@ -140,26 +140,25 @@ The application:
 
 ---
 
-### Future Forecast
-
-<p align="center">
-<img src="images/streamlit_forecast.png" width="95%">
-</p>
-
----
-
-### Holiday Scenario Detection
+### Future Forecast & Holiday Scenario Detection
 
 The application automatically identifies whether the selected month contains:
 
 * Hari Raya
 * Chinese New Year
 * Kongsi Raya
-
+  
 <p align="center">
-<img src="images/streamlit_holiday_detection.png" width="95%">
+<img src="images/streamlit_forecast.png" width="95%">
 </p>
 
+<p align="center">
+<img src="images/streamlit_forecast2.png" width="95%">
+</p>
+
+<p align="center">
+<img src="images/streamlit_forecast3.png" width="95%">
+</p>
 ---
 
 # 💡 Key Findings
