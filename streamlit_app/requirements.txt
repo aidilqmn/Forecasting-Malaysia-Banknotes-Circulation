@@ -1,0 +1,9 @@
+streamlit
+pandas
+statsmodels
+holidays
+plotly
+
+---paste in terminal
+
+pip install streamlit pandas statsmodels holidays plotly
